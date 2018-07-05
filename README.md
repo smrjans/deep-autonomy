@@ -12,6 +12,8 @@ https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.
 https://arxiv.org/pdf/1711.06976.pdf
 * An Empirical Evaluation of Deep Learning on Highway Driving: <br>
 https://arxiv.org/pdf/1504.01716.pdf
+* On Machine Learning and Structure for Mobile Robots: <br>
+https://arxiv.org/pdf/1806.06003.pdf
 
 
 ### Papers Robot:
